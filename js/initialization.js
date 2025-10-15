@@ -4,7 +4,7 @@ function createProduct() {
             id: 1,
             status:'',
             title:'',
-            img:'',
+            img:'access/image /Bột Chiên.JPG',
             price: 1,
             
         },

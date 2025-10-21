@@ -87,6 +87,15 @@ function createProduct() {
             price: 169000,
             desc:'Há cảo gồm lớp vỏ mỏng dai, nhân tôm thịt ngọt thơm, hấp nóng vừa tới. Ăn kèm nước tương pha chua ngọt, cay nhẹ, rắc thêm hành phi và rau thơm, đậm vị Việt, khiến từng miếng há cảo mềm mại, đậm đà, tan ngay trong miệng.',
         },
+          {
+            id: '9',
+            status:'1',
+            title:'Há Cảo',
+            img:'access/image /product/ha_cao.jpg',
+            category: 'Món vặt',
+            price: 169000,
+            desc:'Há cảo gồm lớp vỏ mỏng dai, nhân tôm thịt ngọt thơm, hấp nóng vừa tới. Ăn kèm nước tương pha chua ngọt, cay nhẹ, rắc thêm hành phi và rau thơm, đậm vị Việt, khiến từng miếng há cảo mềm mại, đậm đà, tan ngay trong miệng.',
+        },
         ]
     }
 }

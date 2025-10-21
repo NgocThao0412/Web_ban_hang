@@ -13,11 +13,11 @@ function createProduct() {
         {
             id: 2,
             status:'1',
-            title:'Bún Đậu Mắm Tôm',
-            img:'access/image /product/Bún Đậu.jpg',
+            title:'Gà Luộc',
+            img:'access/image /product/Gà Luộc.jpg',
             category: 'Món mặn',
-            price: 120000,
-            desc:'Bún đậu mắm tôm thêm ngon, gồm bún lá, đậu hũ chiên vàng, thịt luộc, chả cốm và dưa leo. Ăn kèm mắm tôm pha chua ngọt, cay đậm vị Việt ',
+            price: 200000,
+            desc:'Gà luộc thêm ngon, gồm từng miếng gà chặt vừa ăn, da vàng óng, thịt mềm ngọt, ăn kèm rau răm, muối tiêu chanh và dưa leo. Chấm muối tiêu pha chua cay đậm vị Việt, khiến từng miếng gà thêm đậm đà, khó quên. ',
       
         },
          {
@@ -41,36 +41,52 @@ function createProduct() {
       
         },
         {
-            id: '############',
-            status:'#########',
-            title:'#################',
+            id: '5',
+            status:'1',
+            title:'Gỏi Cuốn',
             img:'access/image /product/Gỏi Cuốn.jpg',
             category: 'Món mặn',
-            price: '################',
-            desc:'########################################################################',
+            price: 120000,
+            desc:'Gỏi cuốn thêm ngon, gồm bánh tráng mềm dai cuốn tôm, thịt luộc, bún, rau sống và hẹ. Ăn kèm nước mắm chua ngọt hoặc tương đậu pha cay, đậm vị Việt, khiến từng cuốn gỏi thanh mát mà vẫn đậm đà, cuốn hút từ cái nhìn đầu tiên.',
       
         },
          {
-            id: '############',
-            status:'#########',
-            title:'#################',
-            img:'access/image /product/Phở.jpg',
-            category: 'Món mặn',
-            price: '################',
-            desc:'########################################################################',
+            id: '6',
+            status:'1',
+            title:'Gỏi Khô Bò',
+            img:'access/image /product/Gỏi Khô Bò.JPG',
+            category: 'Món vặt',
+            price: 150000,
+            desc:'Gỏi khô bò thêm ngon, gồm đu đủ bào sợi giòn mát, khô bò cay ngọt, rau răm thơm nồng, đậu phộng rang và bánh phồng tôm giòn tan. Rưới đều nước mắm pha chua ngọt, cay nhẹ, đậm vị Việt, khiến từng miếng gỏi vừa hài hòa vừa bùng vị, ăn một lần là nhớ mãi.',
       
         },
         {
-            id: '############',
-            status:'#########',
-            title:'#################',
-            img:'access/image /product/Gà Luộc.jpg',
+            id: '7',
+            status:'1',
+            title:'Bánh Cuốn',
+            img:'access/image /product/Gỏi Cuốn.jpg',
             category: 'Món mặn',
-            price: '################',
-            desc:'########################################################################',
-      
+            price: 119000,
+            desc:'Bánh cuốn mềm mịn, nhân thịt đậm đà, hành phi thơm lừng, chả lụa dai nhẹ, rau sống tươi mát, thêm miếng tôm chiên giòn rụm — chấm nước mắm pha chua ngọt cay cay, đúng là hương vị Việt Nam không thể lẫn vào đâu được.',
         },
-
+        {
+            id: '8',
+            status:'1',
+            title:'Bánh Trán Trộn',
+            img:'access/image /product/Bánh Cuốn.jpg',
+            category: 'Món vặt',
+            price: 59000,
+            desc:'Bánh tráng trộn thêm ngon, gồm bánh tráng cắt sợi dai mềm, khô bò cay ngọt, trứng cút béo bùi, xoài xanh chua nhẹ, rau răm thơm nồng, đậu phộng giòn tan và hành phi vàng ruộm. Trộn đều với sa tế, nước tắc, muối tôm đậm vị Việt, khiến từng miếng bánh vừa cay vừa chua, thơm ngon khó cưỡng, ăn là ghiền.',
+        },
+         {
+            id: '9',
+            status:'1',
+            title:'Há Cảo',
+            img:'access/image /product/ha_cao.jpg',
+            category: 'Món vặt',
+            price: 169000,
+            desc:'Há cảo thêm ngon, gồm lớp vỏ mỏng dai, nhân tôm thịt ngọt thơm, hấp nóng vừa tới. Ăn kèm nước tương pha chua ngọt, cay nhẹ, rắc thêm hành phi và rau thơm, đậm vị Việt, khiến từng miếng há cảo mềm mại, đậm đà, tan ngay trong miệng.',
+        },
         ]
     }
 }
